@@ -105,3 +105,11 @@ a {
     color-scheme: dark;
   }
 }
+
+button {
+  padding: 8px 24px;
+  background-color: rgb(24, 172, 24);
+  outline: none;
+  border: none;
+  border-radius: 4px;
+}
