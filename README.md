@@ -1,5 +1,8 @@
 # Browser code
 This code runs in your browser. URL: https://apurbalal.github.io/browser-code/
+Use it when you want to test a logic quickly without setting up an environment.
+For example - writing an algorithim, new logic, test your short code snippet etc.
+
 # Screenshot
 <img width="1346" alt="Screenshot 2023-05-27 at 0 35 32" src="https://github.com/apurbalal/browser-code/assets/9425881/b89734a0-2d5c-4c2c-81aa-023d372e467d">
 
